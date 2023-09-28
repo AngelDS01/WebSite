@@ -77,7 +77,7 @@ header {
 	}
 
 	.slide0 {
-		background: #f84118;
+		background: #FF3709;
 		position: relative;
 
 		#title {
@@ -160,7 +160,7 @@ header {
 		}
 
 		li {
-			 display: inline-block;
+			// display: inline-block;
 			font-size: 40px;
 			font-weight: 100;
 
